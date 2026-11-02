@@ -1,0 +1,10 @@
+# Βιβλιοθήκες Python που χρειάζεται η εφαρμογή (εγκατάσταση: pip3 install -r requirements.txt)
+customtkinter
+pillow
+pillow-heif
+yt-dlp
+pdf2docx
+imageio-ffmpeg
+rawpy
+# Μόνο για να φτιάξεις την εφαρμογή (.app):
+pyinstaller
